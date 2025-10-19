@@ -1,3 +1,3 @@
 # GitHub-Intro
 Testing lang sah
-Ready to testing
+Ready to test.
